@@ -1,9 +1,19 @@
-## Hi there 👋
+## 👋 Hi there, I'm Suzette!
+Junior at California State University Long Beach studying Computer Science.
+
+## 💻 Tech Stack:
+Languages: Python, C++, C
+Web Dev: HTML, CSS, Javascript (Basic), React (Basic)
+
+## 📫 How to Reach Me:
+Email: suzettemejia04@gmail.com
+LinkedIn: www.linkedin.com/in/suzette-mejia-832804251 
 
 <!--
 **suzettem16/suzettem16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
