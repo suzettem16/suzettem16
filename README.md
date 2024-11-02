@@ -2,11 +2,11 @@
 Junior at California State University Long Beach studying Computer Science.
 
 ## 💻 Tech Stack:
-Languages: Python, C++, C
+Languages: Python, C++, C <be>
 Web Dev: HTML, CSS, Javascript (Basic), React (Basic)
 
 ## 📫 How to Reach Me:
-Email: suzettemejia04@gmail.com
+Email: suzettemejia04@gmail.com <be>
 LinkedIn: www.linkedin.com/in/suzette-mejia-832804251 
 
 <!--
