@@ -2,12 +2,12 @@
 Junior at California State University Long Beach studying Computer Science.
 
 ## 💻 Tech Stack:
-<li> Languages: Python, C++, C 
-Web Dev: HTML, CSS, Javascript (Basic), React (Basic)</li>
+Languages: Python, C++, C <br>
+Web Dev: HTML, CSS, Javascript (Basic), React (Basic)
 
 ## 📫 How to Reach Me:
-<li>Email: suzettemejia04@gmail.com
-LinkedIn: www.linkedin.com/in/suzette-mejia-832804251 </li>
+Email: suzettemejia04@gmail.com <br>
+LinkedIn: www.linkedin.com/in/suzette-mejia-832804251
 
 <!--
 **suzettem16/suzettem16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
